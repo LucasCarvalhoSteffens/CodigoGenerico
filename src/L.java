@@ -5,7 +5,7 @@ public class L implements Letra {
                 {' ', ' ', 'L', ' ', ' '},
                 {' ', ' ', 'L', ' ', ' '},
                 {' ', ' ', 'L', ' ', ' '},
-                {' ', ' ', 'L', 'L', ' '}
+                {' ', ' ', 'L', 'L', 'L'}
         };
         return arrL;
     }
